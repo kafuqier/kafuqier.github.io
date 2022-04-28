@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kafuqier.github.io</id>
     <title>卡夫其尔</title>
-    <updated>2022-04-28T08:27:28.684Z</updated>
+    <updated>2022-04-28T08:47:30.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kafuqier.github.io"/>
     <link rel="self" href="https://kafuqier.github.io/atom.xml"/>
@@ -11,12 +11,12 @@
     <icon>https://kafuqier.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, 卡夫其尔</rights>
     <entry>
-        <title type="html"><![CDATA[Hello ！]]></title>
-        <id>https://kafuqier.github.io/post/hello-gridea/</id>
-        <link href="https://kafuqier.github.io/post/hello-gridea/">
+        <title type="html"><![CDATA[Hello]]></title>
+        <id>https://kafuqier.github.io/post/hello/</id>
+        <link href="https://kafuqier.github.io/post/hello/">
         </link>
-        <updated>2018-12-11T16:00:00.000Z</updated>
-        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://kafuqier.github.io/post-images/1651133960702.jpg" alt="" loading="lazy"></figure>
+        <updated>2022-04-28T08:31:01.000Z</updated>
+        <content type="html"><![CDATA[<figure data-type="image" tabindex="1"><img src="https://kafuqier.github.io/post-images/1651134714308.jpg" alt="" loading="lazy"></figure>
 ]]></content>
     </entry>
 </feed>
