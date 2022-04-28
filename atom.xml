@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://kafuqier.github.io</id>
-    <title>kafuqier</title>
-    <updated>2022-04-28T07:40:58.190Z</updated>
+    <title>Gridea</title>
+    <updated>2022-04-28T07:43:09.676Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://kafuqier.github.io"/>
     <link rel="self" href="https://kafuqier.github.io/atom.xml"/>
     <subtitle>May all the beauty be blessed</subtitle>
     <logo>https://kafuqier.github.io/images/avatar.png</logo>
     <icon>https://kafuqier.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2022, kafuqier</rights>
+    <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://kafuqier.github.io/post/hello-gridea/</id>
